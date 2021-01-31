@@ -1,0 +1,9 @@
+drop table `has`;
+drop table `record`;
+drop table `answer`;
+drop table `question`;
+drop table `exam`;
+drop table `student`;
+drop table `class`;
+drop table `teacher`;
+drop table `subject`;
