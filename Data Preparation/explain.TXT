@@ -1,0 +1,3 @@
+Using python to create a set of data(details explained in the comments of .py file) of 
+teacher, students and class and create a set of .slq files. Running these .sql file can import
+the data into MySQL database so that the System can read them and change them.
